@@ -4,9 +4,13 @@ Functional, UI and security automated test cases examples for https://www.n11.co
 Test Cases
 
 -test case 1 - Login with an invalid username and a valid password
+
  Go to https://www.n11.com/
+ 
  Click "Giriş Yap" button
+ 
  Enter an invalid username and a valid password
+ 
  Verify that it gives an incorrect login message 
 
 -test case 2 - Login with an valid username and an invalid password
