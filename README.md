@@ -14,24 +14,37 @@ Test Cases
  Verify that it gives an incorrect login message 
 
 -test case 2 - Login with an valid username and an invalid password
+
  Go to https://www.n11.com/
+ 
  Click "Giriş Yap" button
+ 
  Enter a valid username and an invalid password
+ 
  Verify that it gives an incorrect login message
  
 -test case 3 - Login with an valid username and an valid password
+
  Go to https://www.n11.com/
+ 
  Click "Giriş Yap" button
+ 
  Enter a valid username and a valid password
+ 
  Verify that succesfully login
  
 -test case 4 - Scroll menu and log out
+
  Scroll My Account dropdown menu
+ 
  Click "Çıkış Yap" button
+ 
  Click "Giriş Yap" button
 
 -test case 5 - verify 'Şifremi Unuttum' button on login page
+
  Click "Şifremi Unuttum" button
+ 
  Verify "Şifre Yenileme" popup screen
 
 -test case 6 - verify 'Beni Unutma' button on login page
