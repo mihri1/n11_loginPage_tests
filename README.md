@@ -17,11 +17,13 @@ Test Cases
 
 -test case 7 - verify other login buttons
 
+
 -test case 8 - Verify presence of label texts
 
 -test case 9 - Verify presence of text boxes
 
 -test case 10 - Verify presence of buttons
+
 
 -test case 11 - Verify HTTPS
 
